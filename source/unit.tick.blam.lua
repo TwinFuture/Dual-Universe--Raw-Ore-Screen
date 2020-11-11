@@ -109,7 +109,7 @@ for i = 1, #ores do
         for y = 1, #containers do
             if containers[y][1] == name then
                 local containerProficiency = 30 --export
-                local hubVol = 114400 --export
+                local hubVol = 1280000 --export
                 local sizes = {
                     -- Mining and Inventory, Inventory Manager, Container Proficiency.
                     -- Containers, min - max Hitpoints, Base Volume, Base Weight
