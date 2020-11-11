@@ -100,7 +100,7 @@ end
 for i = 1, #ores do
     local style = ''
     if i == 5 then
-        style = 'style="float:none;margin:0 auto;"'
+        style = 'style="float:none;margin:0 auto"'
     end
     htmlBody = htmlBody .. '<table '.. style ..'><tbody><tr><th colspan=3>TIER '..i..'</th></tr>'
     local tiers = ores[i]
