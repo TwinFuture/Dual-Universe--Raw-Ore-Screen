@@ -1,5 +1,6 @@
 # Dual-Universe Raw Ore Screen
 Display a single screen containing all default 5 ores inside your containers.
+![Preview](https://raw.githubusercontent.com/TwinFuture/Dual-Universe--Raw-Ore-Screen/main/images/preview.png)
 
 ## INSTRUCTIONS
 
